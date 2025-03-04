@@ -23,4 +23,6 @@ Why is this multithreading? I guess you can't really send a message and receive 
 It'd be nice if you could just bind the events. Idk, I'll figure out how that stuff works. 
 
 It'd be nice if I could just use my other laptop for testing. I think I'll try that. 
+
+I can actually test by running it twice on the same computer, apparently. I'll have to figure that out later. 
 '''
